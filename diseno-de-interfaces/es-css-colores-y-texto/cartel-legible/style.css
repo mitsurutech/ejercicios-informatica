@@ -1,0 +1,13 @@
+/* Este cartel se lee mal. Arréglalo. */
+body {
+  background-color: white;
+  color: #bbbbbb;
+  font-size: 10px;
+  line-height: 1;
+}
+h1 {
+  color: yellow;
+}
+.price {
+  color: #cccccc;
+}

@@ -1,0 +1,7 @@
+header, nav, main, section, footer, aside {
+  border: 2px dashed #888; margin: 8px 0; padding: 8px;
+}
+header { background: #fde9c9; }
+nav { background: #dff1e0; }
+main { background: #e7eefc; }
+footer { background: #eeeeee; }

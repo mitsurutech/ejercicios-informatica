@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.dish {
+  padding: 16px;
+  text-align: center;
+  background-color: #ffe9a8;
+  border: 2px solid #c98a00;
+}
+.title {
+  text-align: center;
+}
+/* Escribe aquí las reglas de .week y .special */

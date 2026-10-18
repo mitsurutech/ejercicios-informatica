@@ -1,0 +1,5 @@
+body { font-family: sans-serif; }
+input, button { font-size: 18px; }
+li { font-size: 20px; margin: 6px 0; cursor: pointer; }
+li button { margin-left: 8px; font-size: 14px; }
+.done { text-decoration: line-through; color: gray; }

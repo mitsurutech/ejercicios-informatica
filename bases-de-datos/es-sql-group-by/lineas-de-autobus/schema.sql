@@ -1,0 +1,12 @@
+CREATE TABLE rides (
+  id INTEGER PRIMARY KEY,
+  line TEXT,
+  passengers INTEGER
+);
+INSERT INTO rides VALUES (1, 'L1', 20);
+INSERT INTO rides VALUES (2, 'L2', 15);
+INSERT INTO rides VALUES (3, 'L1', 30);
+INSERT INTO rides VALUES (4, 'L3', 8);
+INSERT INTO rides VALUES (5, 'L2', 25);
+INSERT INTO rides VALUES (6, 'L1', 12);
+INSERT INTO rides VALUES (7, 'L3', 11);

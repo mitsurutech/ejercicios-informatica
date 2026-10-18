@@ -1,0 +1,19 @@
+/* Estilo base ya escrito. Termina la web con tus reglas. */
+body {
+  font-family: Arial, sans-serif;
+  color: #222222;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* 1. Cabecera: en flex, nombre a la izquierda y menú a la derecha. */
+
+/* 2. Carta: .dishes en grid de tres columnas con gap. */
+
+/* 3. Las cajas .dish con relleno, borde y fondo suave. */
+
+/* 4. Aviso .notice con buen contraste. */
+
+/* 5. Pie con fondo oscuro y letras claras. */
+
+/* 6. Media query para 600px o menos: una sola columna. */
