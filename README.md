@@ -8,7 +8,7 @@ Free computer science exercises, written in Spanish for students aged 16 to 18: 
 
 ## What is in this repository
 
-Each folder is one exercise from our computer science course in Spanish. It holds a README that says what to do, and the starter files to work in. The folders are sorted by chapter and by lesson. Use whichever editor you usually use. The exercises themselves, their READMEs and the code are in Spanish; the list below gives each lesson's title in English.
+Each folder is one exercise from our computer science course in Spanish. It holds a README that says what to do, and the starter files to work in. The folders are sorted by chapter and by lesson. Use whichever editor you usually use. The exercises themselves, their READMEs and the comments in the code are in Spanish; the list below gives each lesson's title in English.
 
 ## How to use it
 

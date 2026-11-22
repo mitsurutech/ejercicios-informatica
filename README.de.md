@@ -8,7 +8,7 @@ Kostenlose Informatikübungen, auf Spanisch geschrieben für Schülerinnen und S
 
 ## Was dieses Repository enthält
 
-Jeder Ordner ist eine Übung aus unserem Informatikkurs auf Spanisch. Er enthält eine README, die sagt, was zu tun ist, und die Startdateien zum Arbeiten. Die Ordner sind nach Kapitel und nach Lektion geordnet. Verwenden Sie Ihren gewohnten Editor. Die Übungen selbst, ihre READMEs und der Code sind auf Spanisch; die Liste unten nennt den Titel jeder Lektion auf Deutsch.
+Jeder Ordner ist eine Übung aus unserem Informatikkurs auf Spanisch. Er enthält eine README, die sagt, was zu tun ist, und die Startdateien zum Arbeiten. Die Ordner sind nach Kapitel und nach Lektion geordnet. Verwenden Sie Ihren gewohnten Editor. Die Übungen selbst, ihre READMEs und die Kommentare im Code sind auf Spanisch; die Liste unten nennt den Titel jeder Lektion auf Deutsch.
 
 ## So verwenden Sie es
 

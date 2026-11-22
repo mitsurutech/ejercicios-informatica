@@ -8,7 +8,7 @@ Des exercices d’informatique gratuits, écrits en espagnol pour les élèves d
 
 ## Ce que contient ce dépôt
 
-Chaque dossier est un exercice de notre cours d’informatique en espagnol. Il contient un README qui dit quoi faire, et les fichiers de départ pour travailler. Les dossiers sont rangés par chapitre, puis par leçon. Utilise ton éditeur habituel. Les exercices eux-mêmes, leurs README et le code sont en espagnol ; la liste ci-dessous donne le titre de chaque leçon en français.
+Chaque dossier est un exercice de notre cours d’informatique en espagnol. Il contient un README qui dit quoi faire, et les fichiers de départ pour travailler. Les dossiers sont rangés par chapitre, puis par leçon. Utilise ton éditeur habituel. Les exercices eux-mêmes, leurs README et les commentaires du code sont en espagnol ; la liste ci-dessous donne le titre de chaque leçon en français.
 
 ## Comment l’utiliser
 
