@@ -1,133 +1,134 @@
-# Ejercicios de informática para jóvenes de 16 a 18 años: programación con código de partida
+# Computer science exercises in Spanish for 16 to 18 year olds: programming with starter code
 
-Ejercicios de informática gratis, escritos en español para estudiantes de 16 a 18 años: 79 ejercicios de programación, en Node.js, Java, PHP, SQL y páginas web (HTML, CSS, JavaScript). Cada uno tiene un enunciado en palabras sencillas y código de partida.
+[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Deutsch](README.de.md)
 
-[Vista previa gratuita del curso](https://mitsurutech.co.uk/resources/course/es)
+Free computer science exercises, written in Spanish for students aged 16 to 18: 79 programming exercises in Node.js, Java, PHP, SQL and web pages (HTML, CSS and JavaScript). Each one has a brief in plain words and starter code.
 
-## Qué contiene este repositorio
+[Free preview of the course (in Spanish)](https://mitsurutech.co.uk/resources/course/es)
 
-Cada carpeta es un ejercicio de nuestro curso de informática en español. Tiene un README que dice qué hacer y los archivos de partida para trabajar. Las carpetas están ordenadas por capítulo y por lección. Usa tu editor de siempre.
+## What is in this repository
 
-## Cómo se usa
+Each folder is one exercise from our computer science course in Spanish. It holds a README that says what to do, and the starter files to work in. The folders are sorted by chapter and by lesson. Use whichever editor you usually use. The exercises themselves, their READMEs and the code are in Spanish; the list below gives each lesson's title in English.
 
-1. Elige un ejercicio de la lista de abajo y abre su carpeta.
-2. Lee su README y escribe tu código en los archivos de partida.
-3. ¿Te has atascado? El curso completo explica cada idea paso a paso: mira la vista previa gratuita del curso.
+## How to use it
 
-Las pruebas ocultas y las soluciones no están aquí. Se quedan en el curso completo, donde un profesor puede poner un ejercicio, corregirlo y dar comentarios a sus estudiantes.
+1. Pick an exercise from the list below and open its folder.
+2. Read its README and write your code in the starter files.
+3. Stuck? The full course explains every idea step by step: have a look at the free preview of the course.
 
-## Todos los ejercicios
+The hidden tests and the model answers are not here. They stay in the full course, where a teacher can set an exercise, mark it and give their students feedback.
 
-### Herramientas para programar
+## All the exercises
 
-- **Leer los errores** (1 ejercicio): [`arregla-metodos`](entornos-de-desarrollo/es-leer-errores/arregla-metodos)
-- **Probar un programa** (1 ejercicio): [`arregla-limites`](entornos-de-desarrollo/es-probar-un-programa/arregla-limites)
+### Tools for programming
 
-### Programación con Java
+- **Reading errors** (1 exercise): [`arregla-metodos`](entornos-de-desarrollo/es-leer-errores/arregla-metodos)
+- **Testing a program** (1 exercise): [`arregla-limites`](entornos-de-desarrollo/es-probar-un-programa/arregla-limites)
 
-- **Tu primer programa en Java** (1 ejercicio): [`tarjeta-del-instituto`](programacion/es-primer-programa-java/tarjeta-del-instituto)
-- **Variables en Java** (1 ejercicio): [`precio-entradas`](programacion/es-variables-en-java/precio-entradas)
-- **Operaciones con números** (1 ejercicio): [`tiempo-y-medias`](programacion/es-operadores-aritmeticos/tiempo-y-medias)
-- **Trabajar con texto** (1 ejercicio): [`correo-y-clave`](programacion/es-texto-con-string/correo-y-clave)
-- **Leer datos del teclado** (1 ejercicio): [`cuatro-lecturas`](programacion/es-leer-datos-scanner/cuatro-lecturas)
-- **Convertir entre tipos** (1 ejercicio): [`cuatro-conversiones`](programacion/es-conversion-de-tipos/cuatro-conversiones)
-- **Decidir con if y else** (1 ejercicio): [`cuatro-decisiones`](programacion/es-condicionales-if/cuatro-decisiones)
-- **Y, o, no** (1 ejercicio): [`cuatro-preguntas`](programacion/es-operadores-logicos/cuatro-preguntas)
-- **Elegir con switch** (1 ejercicio): [`cuatro-menus`](programacion/es-switch/cuatro-menus)
-- **Repetir con while** (1 ejercicio): [`cuatro-bucles`](programacion/es-bucle-while/cuatro-bucles)
-- **Repetir con for** (1 ejercicio): [`cuatro-for`](programacion/es-bucle-for/cuatro-for)
-- **Bucles dentro de bucles** (1 ejercicio): [`figuras-y-partidos`](programacion/es-bucles-anidados/figuras-y-partidos)
-- **Métodos: trozos de programa** (1 ejercicio): [`cuatro-metodos`](programacion/es-metodos-basicos/cuatro-metodos)
-- **Arrays: listas de valores** (1 ejercicio): [`cuatro-arrays`](programacion/es-arrays-que-son/cuatro-arrays)
-- **Buscar y sumar en un array** (1 ejercicio): [`cuatro-recorridos`](programacion/es-arrays-buscar-y-sumar/cuatro-recorridos)
-- **Ordenar un array** (1 ejercicio): [`ordenar-arrays`](programacion/es-arrays-ordenar/ordenar-arrays)
-- **Tablas de dos dimensiones** (1 ejercicio): [`sumas-en-tablas`](programacion/es-arrays-dos-dimensiones/sumas-en-tablas)
-- **Clases y objetos** (1 ejercicio): [`bebidas-del-bar`](programacion/es-clases-y-objetos/bebidas-del-bar)
-- **Constructores** (1 ejercicio): [`abono-de-transporte`](programacion/es-constructores/abono-de-transporte)
-- **Atributos privados** (1 ejercicio): [`nota-de-examen`](programacion/es-encapsulacion/nota-de-examen)
-- **Métodos de un objeto** (1 ejercicio): [`sala-de-cine`](programacion/es-metodos-de-objeto/sala-de-cine)
-- **Herencia** (1 ejercicio): [`personal-del-bar`](programacion/es-herencia/personal-del-bar)
-- **Un método, muchas formas** (1 ejercicio): [`entradas-de-cine`](programacion/es-polimorfismo/entradas-de-cine)
-- **Clases abstractas e interfaces** (1 ejercicio): [`formas-de-pagar`](programacion/es-clases-abstractas-interfaces/formas-de-pagar)
-- **Cuando algo sale mal** (1 ejercicio): [`cuatro-casos`](programacion/es-excepciones/cuatro-casos)
-- **ArrayList: listas que crecen** (1 ejercicio): [`lista-de-clase`](programacion/es-arraylist/lista-de-clase)
-- **Mapas y conjuntos** (1 ejercicio): [`votos-y-carrito`](programacion/es-mapas-y-conjuntos/votos-y-carrito)
-- **Leer ficheros de texto** (1 ejercicio): [`leer-lineas`](programacion/es-leer-ficheros/leer-lineas)
-- **Escribir ficheros de texto** (1 ejercicio): [`escribir-resultados`](programacion/es-escribir-ficheros/escribir-resultados)
-- **Mini proyecto: adivina el número** (1 ejercicio): [`piezas-del-juego`](programacion/es-mini-juego-adivina/piezas-del-juego)
+### Programming in Java
 
-### HTML, XML y JSON
+- **Your first program in Java** (1 exercise): [`tarjeta-del-instituto`](programacion/es-primer-programa-java/tarjeta-del-instituto)
+- **Variables in Java** (1 exercise): [`precio-entradas`](programacion/es-variables-en-java/precio-entradas)
+- **Working with numbers** (1 exercise): [`tiempo-y-medias`](programacion/es-operadores-aritmeticos/tiempo-y-medias)
+- **Working with text** (1 exercise): [`correo-y-clave`](programacion/es-texto-con-string/correo-y-clave)
+- **Reading from the keyboard** (1 exercise): [`cuatro-lecturas`](programacion/es-leer-datos-scanner/cuatro-lecturas)
+- **Converting between types** (1 exercise): [`cuatro-conversiones`](programacion/es-conversion-de-tipos/cuatro-conversiones)
+- **Deciding with if and else** (1 exercise): [`cuatro-decisiones`](programacion/es-condicionales-if/cuatro-decisiones)
+- **And, or, not** (1 exercise): [`cuatro-preguntas`](programacion/es-operadores-logicos/cuatro-preguntas)
+- **Choosing with switch** (1 exercise): [`cuatro-menus`](programacion/es-switch/cuatro-menus)
+- **Repeating with while** (1 exercise): [`cuatro-bucles`](programacion/es-bucle-while/cuatro-bucles)
+- **Repeating with for** (1 exercise): [`cuatro-for`](programacion/es-bucle-for/cuatro-for)
+- **Loops inside loops** (1 exercise): [`figuras-y-partidos`](programacion/es-bucles-anidados/figuras-y-partidos)
+- **Methods: pieces of a program** (1 exercise): [`cuatro-metodos`](programacion/es-metodos-basicos/cuatro-metodos)
+- **Arrays: lists of values** (1 exercise): [`cuatro-arrays`](programacion/es-arrays-que-son/cuatro-arrays)
+- **Searching and adding up in an array** (1 exercise): [`cuatro-recorridos`](programacion/es-arrays-buscar-y-sumar/cuatro-recorridos)
+- **Sorting an array** (1 exercise): [`ordenar-arrays`](programacion/es-arrays-ordenar/ordenar-arrays)
+- **Two-dimensional tables** (1 exercise): [`sumas-en-tablas`](programacion/es-arrays-dos-dimensiones/sumas-en-tablas)
+- **Classes and objects** (1 exercise): [`bebidas-del-bar`](programacion/es-clases-y-objetos/bebidas-del-bar)
+- **Constructors** (1 exercise): [`abono-de-transporte`](programacion/es-constructores/abono-de-transporte)
+- **Private fields** (1 exercise): [`nota-de-examen`](programacion/es-encapsulacion/nota-de-examen)
+- **An object's methods** (1 exercise): [`sala-de-cine`](programacion/es-metodos-de-objeto/sala-de-cine)
+- **Inheritance** (1 exercise): [`personal-del-bar`](programacion/es-herencia/personal-del-bar)
+- **One method, many forms** (1 exercise): [`entradas-de-cine`](programacion/es-polimorfismo/entradas-de-cine)
+- **Abstract classes and interfaces** (1 exercise): [`formas-de-pagar`](programacion/es-clases-abstractas-interfaces/formas-de-pagar)
+- **When something goes wrong** (1 exercise): [`cuatro-casos`](programacion/es-excepciones/cuatro-casos)
+- **ArrayList: lists that grow** (1 exercise): [`lista-de-clase`](programacion/es-arraylist/lista-de-clase)
+- **Maps and sets** (1 exercise): [`votos-y-carrito`](programacion/es-mapas-y-conjuntos/votos-y-carrito)
+- **Reading text files** (1 exercise): [`leer-lineas`](programacion/es-leer-ficheros/leer-lineas)
+- **Writing text files** (1 exercise): [`escribir-resultados`](programacion/es-escribir-ficheros/escribir-resultados)
+- **Mini project: guess the number** (1 exercise): [`piezas-del-juego`](programacion/es-mini-juego-adivina/piezas-del-juego)
 
-- **Qué es una página web** (1 ejercicio): [`arregla-la-carta`](lenguajes-de-marcas/es-que-es-html/arregla-la-carta)
-- **Títulos, párrafos y enlaces** (1 ejercicio): [`web-del-club`](lenguajes-de-marcas/es-html-textos-y-enlaces/web-del-club)
-- **Listas y tablas** (1 ejercicio): [`tu-horario`](lenguajes-de-marcas/es-html-listas-y-tablas/tu-horario)
-- **Imágenes y texto alternativo** (1 ejercicio): [`pagina-del-equipo`](lenguajes-de-marcas/es-html-imagenes/pagina-del-equipo)
-- **Formularios** (1 ejercicio): [`termina-el-pedido`](lenguajes-de-marcas/es-html-formularios/termina-el-pedido)
-- **Estructura de una página** (1 ejercicio): [`ordena-la-pagina`](lenguajes-de-marcas/es-html-estructura/ordena-la-pagina)
-- **Validar una página** (1 ejercicio): [`arregla-la-carta-rota`](lenguajes-de-marcas/es-html-validar/arregla-la-carta-rota)
-- **Qué es JSON** (1 ejercicio): [`tus-datos-en-json`](lenguajes-de-marcas/es-json-que-es/tus-datos-en-json)
+### HTML, XML and JSON
 
-### Bases de datos y SQL
+- **What a web page is** (1 exercise): [`arregla-la-carta`](lenguajes-de-marcas/es-que-es-html/arregla-la-carta)
+- **Headings, paragraphs and links** (1 exercise): [`web-del-club`](lenguajes-de-marcas/es-html-textos-y-enlaces/web-del-club)
+- **Lists and tables** (1 exercise): [`tu-horario`](lenguajes-de-marcas/es-html-listas-y-tablas/tu-horario)
+- **Images and alternative text** (1 exercise): [`pagina-del-equipo`](lenguajes-de-marcas/es-html-imagenes/pagina-del-equipo)
+- **Forms** (1 exercise): [`termina-el-pedido`](lenguajes-de-marcas/es-html-formularios/termina-el-pedido)
+- **The structure of a page** (1 exercise): [`ordena-la-pagina`](lenguajes-de-marcas/es-html-estructura/ordena-la-pagina)
+- **Validating a page** (1 exercise): [`arregla-la-carta-rota`](lenguajes-de-marcas/es-html-validar/arregla-la-carta-rota)
+- **What JSON is** (1 exercise): [`tus-datos-en-json`](lenguajes-de-marcas/es-json-que-es/tus-datos-en-json)
 
-- **Pedir datos con SELECT** (1 ejercicio): [`tienda-de-moviles`](bases-de-datos/es-sql-select/tienda-de-moviles)
-- **Filtrar con WHERE** (1 ejercicio): [`trenes-a-valencia`](bases-de-datos/es-sql-where/trenes-a-valencia)
-- **Ordenar y limitar** (1 ejercicio): [`rutas-mas-largas`](bases-de-datos/es-sql-orden-y-limite/rutas-mas-largas)
-- **Contar y sumar** (1 ejercicio): [`visitas-al-museo`](bases-de-datos/es-sql-funciones/visitas-al-museo)
-- **Agrupar resultados** (1 ejercicio): [`lineas-de-autobus`](bases-de-datos/es-sql-group-by/lineas-de-autobus)
-- **Unir dos tablas** (1 ejercicio): [`sesiones-del-cine`](bases-de-datos/es-sql-join/sesiones-del-cine)
-- **Añadir filas** (1 ejercicio): [`carta-del-bar`](bases-de-datos/es-sql-insert/carta-del-bar)
-- **Cambiar y borrar filas** (1 ejercicio): [`entradas-del-evento`](bases-de-datos/es-sql-update-delete/entradas-del-evento)
-- **Crear tablas** (1 ejercicio): [`crear-asignaturas`](bases-de-datos/es-sql-crear-tablas/crear-asignaturas)
+### Databases and SQL
 
-### Diseño de páginas con CSS
+- **Asking for data with SELECT** (1 exercise): [`tienda-de-moviles`](bases-de-datos/es-sql-select/tienda-de-moviles)
+- **Filtering with WHERE** (1 exercise): [`trenes-a-valencia`](bases-de-datos/es-sql-where/trenes-a-valencia)
+- **Sorting and limiting** (1 exercise): [`rutas-mas-largas`](bases-de-datos/es-sql-orden-y-limite/rutas-mas-largas)
+- **Counting and adding up** (1 exercise): [`visitas-al-museo`](bases-de-datos/es-sql-funciones/visitas-al-museo)
+- **Grouping results** (1 exercise): [`lineas-de-autobus`](bases-de-datos/es-sql-group-by/lineas-de-autobus)
+- **Joining two tables** (1 exercise): [`sesiones-del-cine`](bases-de-datos/es-sql-join/sesiones-del-cine)
+- **Adding rows** (1 exercise): [`carta-del-bar`](bases-de-datos/es-sql-insert/carta-del-bar)
+- **Changing and deleting rows** (1 exercise): [`entradas-del-evento`](bases-de-datos/es-sql-update-delete/entradas-del-evento)
+- **Creating tables** (1 exercise): [`crear-asignaturas`](bases-de-datos/es-sql-crear-tablas/crear-asignaturas)
 
-- **Primeros estilos** (1 ejercicio): [`carta-del-bar`](diseno-de-interfaces/es-css-primeros-estilos/carta-del-bar)
-- **Clases e identificadores** (1 ejercicio): [`mercado-de-barrio`](diseno-de-interfaces/es-css-clases-e-ids/mercado-de-barrio)
-- **Todo es una caja** (1 ejercicio): [`tarjetas-del-club`](diseno-de-interfaces/es-css-cajas/tarjetas-del-club)
-- **Colores y letras legibles** (1 ejercicio): [`cartel-legible`](diseno-de-interfaces/es-css-colores-y-texto/cartel-legible)
-- **Colocar con flexbox** (1 ejercicio): [`cabecera-del-club`](diseno-de-interfaces/es-css-flexbox/cabecera-del-club)
-- **Cuadrículas con grid** (1 ejercicio): [`menu-de-la-semana`](diseno-de-interfaces/es-css-grid/menu-de-la-semana)
-- **Páginas para móvil y ordenador** (1 ejercicio): [`carta-adaptable`](diseno-de-interfaces/es-css-adaptable/carta-adaptable)
-- **Mini proyecto: la web del bar** (1 ejercicio): [`web-del-bar`](diseno-de-interfaces/es-mini-proyecto-web/web-del-bar)
+### Designing pages with CSS
 
-### JavaScript en el navegador
+- **First styles** (1 exercise): [`carta-del-bar`](diseno-de-interfaces/es-css-primeros-estilos/carta-del-bar)
+- **Classes and IDs** (1 exercise): [`mercado-de-barrio`](diseno-de-interfaces/es-css-clases-e-ids/mercado-de-barrio)
+- **Everything is a box** (1 exercise): [`tarjetas-del-club`](diseno-de-interfaces/es-css-cajas/tarjetas-del-club)
+- **Readable colours and lettering** (1 exercise): [`cartel-legible`](diseno-de-interfaces/es-css-colores-y-texto/cartel-legible)
+- **Laying out with flexbox** (1 exercise): [`cabecera-del-club`](diseno-de-interfaces/es-css-flexbox/cabecera-del-club)
+- **Grids with grid** (1 exercise): [`menu-de-la-semana`](diseno-de-interfaces/es-css-grid/menu-de-la-semana)
+- **Pages for phones and computers** (1 exercise): [`carta-adaptable`](diseno-de-interfaces/es-css-adaptable/carta-adaptable)
+- **Mini project: the café's website** (1 exercise): [`web-del-bar`](diseno-de-interfaces/es-mini-proyecto-web/web-del-bar)
 
-- **Tu primer script** (1 ejercicio): [`tarjeta-del-jugador`](cliente-javascript/es-js-primer-script/tarjeta-del-jugador)
-- **Tipos y operaciones** (1 ejercicio): [`recibo-del-bar`](cliente-javascript/es-js-tipos-y-operadores/recibo-del-bar)
-- **Decidir en JavaScript** (1 ejercicio): [`la-nota-del-examen`](cliente-javascript/es-js-condicionales/la-nota-del-examen)
-- **Repetir en JavaScript** (1 ejercicio): [`la-hucha`](cliente-javascript/es-js-bucles/la-hucha)
-- **Funciones** (1 ejercicio): [`cuatro-funciones`](cliente-javascript/es-js-funciones/cuatro-funciones)
-- **Listas en JavaScript** (1 ejercicio): [`funciones-con-listas`](cliente-javascript/es-js-arrays/funciones-con-listas)
-- **Objetos en JavaScript** (1 ejercicio): [`la-playlist`](cliente-javascript/es-js-objetos/la-playlist)
-- **Cambiar la página** (1 ejercicio): [`tienda-del-barrio`](cliente-javascript/es-dom-cambiar-pagina/tienda-del-barrio)
-- **Eventos: clics y teclas** (1 ejercicio): [`contador-del-recreo`](cliente-javascript/es-eventos/contador-del-recreo)
-- **Comprobar un formulario** (1 ejercicio): [`validar-formulario`](cliente-javascript/es-js-formularios/validar-formulario)
-- **JSON en JavaScript** (1 ejercicio): [`el-equipo-en-json`](cliente-javascript/es-js-json/el-equipo-en-json)
-- **Pedir datos con fetch** (1 ejercicio): [`el-menu-del-dia`](cliente-javascript/es-fetch-datos/el-menu-del-dia)
-- **Mini proyecto: lista de tareas** (1 ejercicio): [`lista-de-tareas`](cliente-javascript/es-mini-proyecto-lista/lista-de-tareas)
+### JavaScript in the browser
 
-### PHP en el servidor
+- **Your first script** (1 exercise): [`tarjeta-del-jugador`](cliente-javascript/es-js-primer-script/tarjeta-del-jugador)
+- **Types and operations** (1 exercise): [`recibo-del-bar`](cliente-javascript/es-js-tipos-y-operadores/recibo-del-bar)
+- **Deciding in JavaScript** (1 exercise): [`la-nota-del-examen`](cliente-javascript/es-js-condicionales/la-nota-del-examen)
+- **Repeating in JavaScript** (1 exercise): [`la-hucha`](cliente-javascript/es-js-bucles/la-hucha)
+- **Functions** (1 exercise): [`cuatro-funciones`](cliente-javascript/es-js-funciones/cuatro-funciones)
+- **Lists in JavaScript** (1 exercise): [`funciones-con-listas`](cliente-javascript/es-js-arrays/funciones-con-listas)
+- **Objects in JavaScript** (1 exercise): [`la-playlist`](cliente-javascript/es-js-objetos/la-playlist)
+- **Changing the page** (1 exercise): [`tienda-del-barrio`](cliente-javascript/es-dom-cambiar-pagina/tienda-del-barrio)
+- **Events: clicks and keys** (1 exercise): [`contador-del-recreo`](cliente-javascript/es-eventos/contador-del-recreo)
+- **Checking a form** (1 exercise): [`validar-formulario`](cliente-javascript/es-js-formularios/validar-formulario)
+- **JSON in JavaScript** (1 exercise): [`el-equipo-en-json`](cliente-javascript/es-js-json/el-equipo-en-json)
+- **Fetching data with fetch** (1 exercise): [`el-menu-del-dia`](cliente-javascript/es-fetch-datos/el-menu-del-dia)
+- **Mini project: a to-do list** (1 exercise): [`lista-de-tareas`](cliente-javascript/es-mini-proyecto-lista/lista-de-tareas)
 
-- **Tu primer script en PHP** (1 ejercicio): [`menu-del-dia`](servidor-php/es-php-primer-script/menu-del-dia)
-- **Variables en PHP** (1 ejercicio): [`ticket-del-bar`](servidor-php/es-php-variables/ticket-del-bar)
-- **Decidir y repetir en PHP** (1 ejercicio): [`precios-y-cuentas`](servidor-php/es-php-condicionales-bucles/precios-y-cuentas)
-- **Funciones en PHP** (1 ejercicio): [`tres-funciones`](servidor-php/es-php-funciones/tres-funciones)
-- **Arrays en PHP** (1 ejercicio): [`sumar-contar-buscar`](servidor-php/es-php-arrays/sumar-contar-buscar)
-- **Recibir un formulario** (1 ejercicio): [`pedido-seguro`](servidor-php/es-php-formularios/pedido-seguro)
-- **No te fíes del usuario** (1 ejercicio): [`registro-del-club`](servidor-php/es-php-validar-entradas/registro-del-club)
-- **Consultas seguras** (1 ejercicio): [`consulta-de-camisetas`](servidor-php/es-php-consultas-seguras/consulta-de-camisetas)
-- **Una API que responde JSON** (1 ejercicio): [`api-de-autobuses`](servidor-php/es-php-api-json/api-de-autobuses)
+### PHP on the server
 
-## ¿Das clase?
+- **Your first script in PHP** (1 exercise): [`menu-del-dia`](servidor-php/es-php-primer-script/menu-del-dia)
+- **Variables in PHP** (1 exercise): [`ticket-del-bar`](servidor-php/es-php-variables/ticket-del-bar)
+- **Deciding and repeating in PHP** (1 exercise): [`precios-y-cuentas`](servidor-php/es-php-condicionales-bucles/precios-y-cuentas)
+- **Functions in PHP** (1 exercise): [`tres-funciones`](servidor-php/es-php-funciones/tres-funciones)
+- **Arrays in PHP** (1 exercise): [`sumar-contar-buscar`](servidor-php/es-php-arrays/sumar-contar-buscar)
+- **Receiving a form** (1 exercise): [`pedido-seguro`](servidor-php/es-php-formularios/pedido-seguro)
+- **Do not trust the user** (1 exercise): [`registro-del-club`](servidor-php/es-php-validar-entradas/registro-del-club)
+- **Safe queries** (1 exercise): [`consulta-de-camisetas`](servidor-php/es-php-consultas-seguras/consulta-de-camisetas)
+- **An API that answers in JSON** (1 exercise): [`api-de-autobuses`](servidor-php/es-php-api-json/api-de-autobuses)
+## Teaching a class?
 
-El curso completo tiene 128 lecciones, con cada ejercicio corregido para ti. Una cuenta de centro es gratis el primer año para hasta 50 estudiantes. Lee primero la [vista previa gratuita del curso](https://mitsurutech.co.uk/resources/course/es), luego [crea una cuenta de centro](https://mitsurutech.co.uk/es/signup) o mira [el precio](https://mitsurutech.co.uk/es/pricing).
+The full course has 128 lessons, with every exercise marked for you. A college account is free for the first year for up to 50 students. Read the [free preview of the course](https://mitsurutech.co.uk/resources/course/es) first, then [create a college account](https://mitsurutech.co.uk/signup) or see [the price](https://mitsurutech.co.uk/pricing).
 
-[La plataforma de aprendizaje MitsuruTech](https://mitsurutech.co.uk/es/learning)
+[The MitsuruTech Learning Platform](https://mitsurutech.co.uk/learning)
 
-## Licencia
+## Licence
 
-Esta obra está bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Puedes compartirla y adaptarla para aprender y enseñar, si citas a Mitsuru Technologies Ltd, no la usas comercialmente y compartes lo que hagas con ella bajo la misma licencia. El texto completo, escrito en inglés, está en el archivo `LICENSE`.
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). You may share and adapt it for learning and teaching, as long as you credit Mitsuru Technologies Ltd, do not use it commercially and share what you make from it under the same licence. The full text is in the `LICENSE` file.
 
-## Acerca de
+## About
 
-Estos ejercicios los hace Mitsuru Technologies Ltd (sociedad registrada en Inglaterra y Gales, número 16755264), que crea la [plataforma de aprendizaje MitsuruTech](https://mitsurutech.co.uk/es/learning) para escuelas y centros.
+These exercises are made by Mitsuru Technologies Ltd (a company registered in England and Wales, number 16755264), which builds the [MitsuruTech Learning Platform](https://mitsurutech.co.uk/learning) for schools and colleges.
