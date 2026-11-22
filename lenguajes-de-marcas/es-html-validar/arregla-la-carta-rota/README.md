@@ -22,6 +22,6 @@ Mira la [vista previa gratuita del curso](https://mitsurutech.co.uk/resources/co
 
 Aquí no hay solución ni prueba, a propósito. En la [plataforma de aprendizaje MitsuruTech](https://mitsurutech.co.uk/es/learning), un profesor puede poner este ejercicio a una clase y corregirlo. Una cuenta de centro es [gratis el primer año](https://mitsurutech.co.uk/es/pricing) para hasta 50 estudiantes.
 
-[Todos los ejercicios](../../../README.md)
+[Todos los ejercicios](../../../README.es.md)
 
 Bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es), de Mitsuru Technologies Ltd.

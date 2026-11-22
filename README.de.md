@@ -119,6 +119,7 @@ Die verborgenen Tests und die Musterlösungen sind nicht hier. Sie bleiben im vo
 - **Trauen Sie den Eingaben nicht** (1 Übung): [`registro-del-club`](servidor-php/es-php-validar-entradas/registro-del-club)
 - **Sichere Abfragen** (1 Übung): [`consulta-de-camisetas`](servidor-php/es-php-consultas-seguras/consulta-de-camisetas)
 - **Eine API, die mit JSON antwortet** (1 Übung): [`api-de-autobuses`](servidor-php/es-php-api-json/api-de-autobuses)
+
 ## Unterrichten Sie eine Klasse?
 
 Der vollständige Kurs umfasst 128 Lektionen, und jede Übung wird für Sie bewertet. Ein Schulkonto ist im ersten Jahr für bis zu 50 Schülerinnen und Schüler kostenlos. Lesen Sie zuerst die [kostenlose Vorschau des Kurses](https://mitsurutech.co.uk/resources/course/es), dann [legen Sie ein Schulkonto an](https://mitsurutech.co.uk/de/signup) oder sehen Sie sich [den Preis](https://mitsurutech.co.uk/de/pricing) an.

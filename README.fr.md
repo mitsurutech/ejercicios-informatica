@@ -119,6 +119,7 @@ Les tests cachés et les corrigés ne sont pas ici. Ils restent dans le cours co
 - **Ne fais pas confiance à l’utilisateur** (1 exercice) : [`registro-del-club`](servidor-php/es-php-validar-entradas/registro-del-club)
 - **Des requêtes sûres** (1 exercice) : [`consulta-de-camisetas`](servidor-php/es-php-consultas-seguras/consulta-de-camisetas)
 - **Une API qui répond en JSON** (1 exercice) : [`api-de-autobuses`](servidor-php/es-php-api-json/api-de-autobuses)
+
 ## Tu enseignes à une classe ?
 
 Le cours complet compte 128 leçons, avec chaque exercice corrigé pour toi. Un compte d’établissement est gratuit la première année pour 50 élèves au plus. Lis d’abord l’[aperçu gratuit du cours](https://mitsurutech.co.uk/resources/course/es), puis [crée un compte d’établissement](https://mitsurutech.co.uk/fr/signup) ou consulte [le prix](https://mitsurutech.co.uk/fr/pricing).

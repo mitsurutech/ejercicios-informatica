@@ -119,6 +119,7 @@ The hidden tests and the model answers are not here. They stay in the full cours
 - **Do not trust the user** (1 exercise): [`registro-del-club`](servidor-php/es-php-validar-entradas/registro-del-club)
 - **Safe queries** (1 exercise): [`consulta-de-camisetas`](servidor-php/es-php-consultas-seguras/consulta-de-camisetas)
 - **An API that answers in JSON** (1 exercise): [`api-de-autobuses`](servidor-php/es-php-api-json/api-de-autobuses)
+
 ## Teaching a class?
 
 The full course has 128 lessons, with every exercise marked for you. A college account is free for the first year for up to 50 students. Read the [free preview of the course](https://mitsurutech.co.uk/resources/course/es) first, then [create a college account](https://mitsurutech.co.uk/signup) or see [the price](https://mitsurutech.co.uk/pricing).
